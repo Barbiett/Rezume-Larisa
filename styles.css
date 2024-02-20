@@ -2,7 +2,7 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFF;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 1.5;
     cursor: pointer;
@@ -21,7 +21,6 @@ p {
 }
 
 .container {
-    border: 5px solid black;
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
@@ -65,7 +64,7 @@ p {
 }
 
 .name {
-    font-size: 50px;
+    font-size: 60px;
     color: #333;
     margin: 0;
 }
@@ -75,7 +74,7 @@ p {
     flex-direction: column;
     display: flex;
     flex-wrap: wrap;
-    max-height: 800px;
+    max-height: 900px;
 }
 
 .div-container {
